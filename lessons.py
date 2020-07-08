@@ -71,6 +71,13 @@
 # for val in friend.values():
 #     print(val)
 
-day = {
-    
-}
+count1 = [1,2,3,4,5]
+count2 = [3,4,5]
+for i in count1:
+    if i in count2:
+        del i
+    else:
+        print(i)
+
+
+print (count1)
