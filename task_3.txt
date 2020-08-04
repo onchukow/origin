@@ -1,0 +1,5 @@
+Ivanov 20000
+Petrov 15000
+Sidorov 50000
+Magbetov 10000
+Lanz 43000

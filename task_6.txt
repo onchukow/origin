@@ -1,0 +1,4 @@
+IT: 100(l) 50(co) 20(lab).
+Chemistry: 30(l) — 10(lab)
+Sport: — 30(co)
+English: 75(l) 5(co) 1(lab).
